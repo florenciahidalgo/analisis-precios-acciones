@@ -1,0 +1,10 @@
+pandas==2.3.3
+yfinance==1.0
+matplotlib==3.10.8
+seaborn==0.13.2
+numpy==2.4.1
+scikit-learn==1.8.0
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+jupyter==1.0.0
+ipykernel==7.1.0
