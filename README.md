@@ -1,4 +1,4 @@
-# 📈 Stock Price Analytics Dashboard
+#  Stock Market Analysis Dashboard
 
 ### Dashboard focused on stock prices analysis, market trends and financial data visualization.
 
