@@ -1,6 +1,6 @@
 # 📈 Stock Price Analytics Dashboard
 
-### AI-powered stock prices and financial market analysis project using Python, PostgreSQL and Power BI.
+### Dashboard focused on stock prices analysis, market trends and financial data visualization.
 
 ---
 
